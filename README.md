@@ -1,3 +1,8 @@
+# This guide has been archived.
+
+The information in this guide is very old and likely no longer applicable to current versions of Graylog.
+Please take that into account when reading the following content.
+
 # How to send OSSEC alerts into Graylog
 
 This guide describes how to send structured OSSEC alert logs into Graylog.
